@@ -1,0 +1,2 @@
+include ':app', ':pushnotifications'
+rootProject.name='Notifications App'
